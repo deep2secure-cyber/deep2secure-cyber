@@ -18,7 +18,7 @@ Security professional transitioning from enterprise technical support into **SOC
 Documenting 10 hands-on SOC projects as I complete them, from setup to detection logic to findings.
 
 - [x] SIEM Log Monitoring & Threat Detection (Splunk) — [repo](https://github.com/deep2secure-cyber/soc-siem-lab)
-- [ ] Simulated Phishing Attack & Incident Response
+- [x] Simulated Phishing Attack & Incident Response — [repo](https://github.com/deep2secure-cyber/soc-phishing-ir-lab)
 - [ ] IDS Deployment & Packet Analysis (Suricata/Wireshark)
 - [ ] Cloud Security Monitoring (AWS/Azure Logs)
 - [ ] Endpoint Monitoring (Sysmon + Wazuh)
